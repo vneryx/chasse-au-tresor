@@ -1,0 +1,1 @@
+console.log("Bienvenue dans la chasse au trésor de Mendy !");
